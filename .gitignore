@@ -27,3 +27,6 @@ proguard/
 *.log
 *.db
 .idea/
+
+#Python
+*.pyc
